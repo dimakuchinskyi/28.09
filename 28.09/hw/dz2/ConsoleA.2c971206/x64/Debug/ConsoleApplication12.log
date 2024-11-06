@@ -1,0 +1,15 @@
+﻿  main.cpp
+C:\Users\bala0\source\repos\ConsoleApplication12\main.cpp(21,9): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\bala0\source\repos\ConsoleApplication12\main.cpp(27,9): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\bala0\source\repos\ConsoleApplication12\main.cpp(36,9): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\bala0\source\repos\ConsoleApplication12\main.cpp(61,9): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\bala0\source\repos\ConsoleApplication12\main.cpp(62,9): error C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\bala0\source\repos\ConsoleApplication12\main.cpp(69,9): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\bala0\source\repos\ConsoleApplication12\main.cpp(70,9): error C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\bala0\source\repos\ConsoleApplication12\main.cpp(98,13): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\bala0\source\repos\ConsoleApplication12\main.cpp(127,9): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\bala0\source\repos\ConsoleApplication12\main.cpp(128,9): error C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\bala0\source\repos\ConsoleApplication12\main.cpp(163,22): error C2440: 'initializing': cannot convert from 'BitString' to 'BitString'
+  C:\Users\bala0\source\repos\ConsoleApplication12\main.cpp(163,22):
+  Cannot copy construct class 'BitString' due to ambiguous copy constructors or no available copy constructor
+  
